@@ -1,0 +1,12 @@
+project/project
+target
+*.iml
+.idea
+.history
+dev.conf
+*~
+*.dvi
+#log4j.properties
+.ensime*
+server/src/main/script/deploy_script/*.log
+.sbtopts
